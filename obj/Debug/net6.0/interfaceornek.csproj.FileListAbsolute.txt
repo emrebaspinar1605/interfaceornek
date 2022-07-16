@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\bin\Debug\net6.0\interfaceornek.exe
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\bin\Debug\net6.0\interfaceornek.deps.json
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\bin\Debug\net6.0\interfaceornek.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\bin\Debug\net6.0\interfaceornek.dll
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\bin\Debug\net6.0\interfaceornek.pdb
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.dll
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\refint\interfaceornek.dll
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.pdb
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\interfaceornek.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\interfaceornek\obj\Debug\net6.0\ref\interfaceornek.dll
